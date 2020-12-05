@@ -9,6 +9,8 @@
   "author": "Jesus Arath",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "docxtemplater": "^3.19.7",
+    "express": "^4.17.1",
+    "pizzip": "^3.0.6"
   }
 }
